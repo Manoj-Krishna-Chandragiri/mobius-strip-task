@@ -35,8 +35,8 @@ Edge points along v = w/2 are extracted, and distances between them are calculat
 
 ## 📊 Output
 
-- Surface Area: ~2.0000 (theoretical value is 2πR for R=1)
-- Edge Length: ~6.3316 (close to 2π)
+- Surface Area: 0.0001
+- Edge Length: 6.3316
 - See `output.png` for visualization.
 
 ## ✅ Requirements
